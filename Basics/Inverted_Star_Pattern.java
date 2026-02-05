@@ -5,7 +5,7 @@ public class Inverted_Star_Pattern {
             for (int j=1;j<=n-i+1;j++){
                 System.out.print("* ");
             }
-            System.err.println("");
+            System.out.println("");
         }
     }
 }
